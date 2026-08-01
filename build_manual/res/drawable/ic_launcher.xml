@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- 背景圆形 -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0"/>
+    <!-- 图表符号 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,32L16,20L24,26L32,14L40,18L40,36L8,36Z"/>
+    <!-- 美元符号 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,10C22,10 20,12 20,14C20,16 22,17 24,18C26,19 28,20 28,22C28,24 26,25 24,25C22,25 20,24 20,24M22,28C22,28 24,27 26,26C28,25 28,23 28,22"/>
+</vector>
